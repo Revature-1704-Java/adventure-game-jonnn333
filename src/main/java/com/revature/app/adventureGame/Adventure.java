@@ -30,7 +30,7 @@ public class Adventure {
 			- [y] OOP (interface, polymorphism) [like inherit child-par, abstract,...]
 			- [y] Maven (junit) (more than one...)
 			- [y] packages (know how to do in VSCode) (JUnit test)
-			- file i/o (optional)
+			- [] file i/o (optional)
 			- [y] git (for upload)
 			- [y] collections/Maps [like in 12/7 such as maps, lists, sets]
 			- [] Design patterns (optional) (Mehrab would-like) such as Singleton, Factory, DAO
